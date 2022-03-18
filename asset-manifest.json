@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/deploy-myweb3-interface/static/css/main.073c9b0a.css",
-    "main.js": "/deploy-myweb3-interface/static/js/main.8d851527.js",
+    "main.css": "/deploy-myweb3-interface/static/css/main.e6c13ad2.css",
+    "main.js": "/deploy-myweb3-interface/static/js/main.357abc14.js",
     "static/js/787.b1f710d7.chunk.js": "/deploy-myweb3-interface/static/js/787.b1f710d7.chunk.js",
-    "static/media/logo.svg": "/deploy-myweb3-interface/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/deploy-myweb3-interface/index.html",
-    "main.073c9b0a.css.map": "/deploy-myweb3-interface/static/css/main.073c9b0a.css.map",
-    "main.8d851527.js.map": "/deploy-myweb3-interface/static/js/main.8d851527.js.map",
+    "main.e6c13ad2.css.map": "/deploy-myweb3-interface/static/css/main.e6c13ad2.css.map",
+    "main.357abc14.js.map": "/deploy-myweb3-interface/static/js/main.357abc14.js.map",
     "787.b1f710d7.chunk.js.map": "/deploy-myweb3-interface/static/js/787.b1f710d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8d851527.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.357abc14.js"
   ]
 }
